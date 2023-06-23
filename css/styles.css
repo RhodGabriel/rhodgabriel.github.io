@@ -9,8 +9,8 @@
 /* Variables */
 :root {
     --main-color: #54B686;
-    --main-text-color: #fff;
-    --border-color: #fff;
+    --main-text-color: #FFF;
+    --border-color: #999;
     --bio-bg-color: #1E2A3A;
     --bio-border-color: #293544;
     --about-bg-color: #111821;
@@ -41,7 +41,7 @@
     flex: 1 1 80%;
     min-height: 100vh;
     background-color: var(--about-bg-color);
-    padding: 50px
+    padding: 50px;
 }
 
 /* Bio container */
