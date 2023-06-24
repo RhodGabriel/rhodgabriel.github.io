@@ -12,14 +12,19 @@
     --main-text-color: #FFF;
     --border-color: #999;
     --bio-bg-color: #232323;
-    --bio-border-color: #293544;
+    --bio-border-color: #999;
     --about-bg-color: #161616;
 }
 
 /* General */
+#highlight {
+    color: var(--main-color);
+}
+
 .highlight {
     color: var(--main-color);
 }
+
 
 /* Containers */
 #maincontainer {
@@ -42,6 +47,10 @@
     min-height: 100vh;
     background-color: var(--about-bg-color);
     padding: 50px;
+}
+
+#about-container .highlight {
+    color: var(--main-color);
 }
 
 /* Bio container */
@@ -137,6 +146,8 @@
     width: 150px;
     text-align: center;
     display: flex;
+    position: relative;
+    left: -25px;
 }
 
 #btn-projects ion-icon,
