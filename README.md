@@ -1,6 +1,6 @@
 # rhodgabriel.github.io
 
-## GitHub Page criada para uma das atividades do programa de bolsas AWS Cloud Data Engineering da Compass UOL
+## GitHub Page 
 Esta é a minha página pessoal do GitHub, criada com o propósito de testar a funcionalidade do GitHub Pages como parte das atividades do programa de bolsas AWS Cloud Data Engineering da Compass UOL.
 
 ## Sobre Mim
